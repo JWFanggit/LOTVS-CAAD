@@ -1,0 +1,3 @@
+ID1/ID2: 29/013
+Timestamp: [0.007242858409881592, 7.43511438369751]
+Sentence: a man is seen walking around a track and leads into a person riding down a street.

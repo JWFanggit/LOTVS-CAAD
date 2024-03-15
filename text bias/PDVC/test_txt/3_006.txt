@@ -1,0 +1,3 @@
+ID1/ID2: 3/006
+Timestamp: [2.3404762744903564, 5.591763496398926]
+Sentence: the man then walks away from the camera.

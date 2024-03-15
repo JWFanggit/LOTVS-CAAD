@@ -1,0 +1,3 @@
+ID1/ID2: 10/011
+Timestamp: [0.0, 8.486498832702637]
+Sentence: a man is standing outside a car with a car.

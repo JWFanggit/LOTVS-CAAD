@@ -1,0 +1,3 @@
+ID1/ID2: 40/052
+Timestamp: [0.0, 7.793548583984375]
+Sentence: people are driving around on a car.

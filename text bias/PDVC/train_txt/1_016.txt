@@ -1,0 +1,3 @@
+ID1/ID2: 1/016
+Timestamp: [2.3944668769836426, 5.952681064605713]
+Sentence: the man then rides the car down the street.

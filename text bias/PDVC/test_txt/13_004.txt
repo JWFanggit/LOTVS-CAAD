@@ -1,0 +1,3 @@
+ID1/ID2: 13/004
+Timestamp: [1.8856533765792847, 9.097046852111816]
+Sentence: a car is seen riding a car in the street.

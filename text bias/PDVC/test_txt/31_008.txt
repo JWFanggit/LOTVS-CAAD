@@ -1,0 +1,3 @@
+ID1/ID2: 31/008
+Timestamp: [5.02098274230957, 12.640908241271973]
+Sentence: the car car and the man gets UNK.

@@ -1,0 +1,3 @@
+ID1/ID2: 13/002
+Timestamp: [0.0, 7.071199893951416]
+Sentence: a person is seen riding down a road with a person riding down on a street.

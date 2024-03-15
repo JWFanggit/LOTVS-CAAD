@@ -1,0 +1,3 @@
+ID1/ID2: 34/005
+Timestamp: [0.020026497542858124, 7.190102577209473]
+Sentence: a car is seen walking around a car with a car.

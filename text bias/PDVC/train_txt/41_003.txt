@@ -1,0 +1,3 @@
+ID1/ID2: 41/003
+Timestamp: [0.0, 6.222648620605469]
+Sentence: a man is standing in a parking lot of a car.

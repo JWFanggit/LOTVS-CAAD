@@ -1,0 +1,3 @@
+ID1/ID2: 28/010
+Timestamp: [0.0, 6.497064113616943]
+Sentence: a person is riding a street.

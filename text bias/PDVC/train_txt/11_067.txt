@@ -1,0 +1,3 @@
+ID1/ID2: 11/067
+Timestamp: [2.9795944690704346, 11.581096649169922]
+Sentence: a car is seen driving a car in a car.

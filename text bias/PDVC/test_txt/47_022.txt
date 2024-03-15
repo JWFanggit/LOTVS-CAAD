@@ -1,0 +1,3 @@
+ID1/ID2: 47/022
+Timestamp: [2.176642417907715, 5.599999904632568]
+Sentence: the man then walks down the street and the man walks down the street.

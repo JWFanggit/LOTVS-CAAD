@@ -1,0 +1,3 @@
+ID1/ID2: 5/028
+Timestamp: [0.004203200340270996, 9.19873332977295]
+Sentence: a man is driving a car in a car.

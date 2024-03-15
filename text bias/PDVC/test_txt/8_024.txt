@@ -1,0 +1,3 @@
+ID1/ID2: 8/024
+Timestamp: [1.3144581317901611, 5.1237101554870605]
+Sentence: a man is seen riding down a car.

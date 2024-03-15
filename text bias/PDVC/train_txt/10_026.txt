@@ -1,0 +1,3 @@
+ID1/ID2: 10/026
+Timestamp: [2.086683750152588, 7.532122611999512]
+Sentence: the man is seen riding a car with a car.

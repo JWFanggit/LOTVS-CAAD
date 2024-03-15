@@ -1,0 +1,3 @@
+ID1/ID2: 28/020
+Timestamp: [2.1120026111602783, 5.433333396911621]
+Sentence: the man then walks away from the car and then the man walks away.

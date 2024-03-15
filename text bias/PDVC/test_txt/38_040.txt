@@ -1,0 +1,3 @@
+ID1/ID2: 38/040
+Timestamp: [0.050225138664245605, 9.789325714111328]
+Sentence: a man is sitting on a track.

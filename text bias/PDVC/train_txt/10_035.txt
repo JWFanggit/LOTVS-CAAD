@@ -1,0 +1,3 @@
+ID1/ID2: 10/035
+Timestamp: [2.6851553916931152, 6.634436130523682]
+Sentence: the man then walks down the street and the man continues to speak to the camera.

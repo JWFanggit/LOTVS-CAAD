@@ -1,0 +1,3 @@
+ID1/ID2: 6/052
+Timestamp: [0.0, 8.927729606628418]
+Sentence: a man is standing outside a street.

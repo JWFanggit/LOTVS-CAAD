@@ -1,0 +1,3 @@
+ID1/ID2: 11/004
+Timestamp: [1.5169740915298462, 5.413696765899658]
+Sentence: a man is seen driving around a car and a man in a car car.

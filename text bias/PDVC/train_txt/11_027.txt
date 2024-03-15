@@ -1,0 +1,3 @@
+ID1/ID2: 11/027
+Timestamp: [0.0016256599919870496, 8.899616241455078]
+Sentence: a car is driving a car.

@@ -1,0 +1,3 @@
+ID1/ID2: 32/008
+Timestamp: [0.0, 7.506489276885986]
+Sentence: a person is seen riding a car down a car with a car.

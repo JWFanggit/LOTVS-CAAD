@@ -1,0 +1,3 @@
+ID1/ID2: 28/002
+Timestamp: [0.020872725173830986, 9.100000381469727]
+Sentence: a man is seen riding a board down a boat.

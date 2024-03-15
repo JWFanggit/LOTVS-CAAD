@@ -1,0 +1,3 @@
+ID1/ID2: 22/003
+Timestamp: [0.0012179642217233777, 11.695527076721191]
+Sentence: a man is seen speaking to the camera while a man is standing in a car.

@@ -1,0 +1,3 @@
+ID1/ID2: 10/044
+Timestamp: [0.0, 14.288459777832031]
+Sentence: a man is driving a car.

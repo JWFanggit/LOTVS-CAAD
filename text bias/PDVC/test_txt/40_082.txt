@@ -1,0 +1,3 @@
+ID1/ID2: 40/082
+Timestamp: [2.398008108139038, 6.085067272186279]
+Sentence: the man continues riding down the street.

@@ -1,0 +1,3 @@
+ID1/ID2: 38/022
+Timestamp: [4.309462070465088, 10.89536190032959]
+Sentence: the man continues to ride the car and the man continues to speak to the camera.

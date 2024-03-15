@@ -1,0 +1,3 @@
+ID1/ID2: 11/064
+Timestamp: [0.034305959939956665, 8.89321231842041]
+Sentence: a man is seen walking down a street.

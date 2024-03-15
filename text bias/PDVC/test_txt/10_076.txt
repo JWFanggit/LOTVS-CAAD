@@ -1,0 +1,3 @@
+ID1/ID2: 10/076
+Timestamp: [0.0, 5.296541213989258]
+Sentence: people are riding around a street.

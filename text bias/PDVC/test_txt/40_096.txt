@@ -1,0 +1,3 @@
+ID1/ID2: 40/096
+Timestamp: [0.011481761932373047, 8.786718368530273]
+Sentence: a person is seen riding a lawn down a sidewalk.

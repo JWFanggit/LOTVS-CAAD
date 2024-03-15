@@ -1,0 +1,3 @@
+ID1/ID2: 28/006
+Timestamp: [0.0, 7.59053897857666]
+Sentence: a person is seen riding down a street with a person walking around.

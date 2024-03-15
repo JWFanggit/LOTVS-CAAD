@@ -1,0 +1,3 @@
+ID1/ID2: 12/003
+Timestamp: [2.478497266769409, 6.14613676071167]
+Sentence: the man is seen walking off the car and the man walks away.

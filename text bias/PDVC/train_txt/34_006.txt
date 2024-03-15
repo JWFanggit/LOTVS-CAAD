@@ -1,0 +1,3 @@
+ID1/ID2: 34/006
+Timestamp: [0.08248269557952881, 6.551875114440918]
+Sentence: a person is seen riding a car with a large car.

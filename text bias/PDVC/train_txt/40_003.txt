@@ -1,0 +1,3 @@
+ID1/ID2: 40/003
+Timestamp: [3.8735222816467285, 9.891464233398438]
+Sentence: the car car in the car.

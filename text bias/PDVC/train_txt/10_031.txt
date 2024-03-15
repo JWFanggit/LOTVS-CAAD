@@ -1,0 +1,3 @@
+ID1/ID2: 10/031
+Timestamp: [0.01621444895863533, 11.4279203414917]
+Sentence: a man is standing in a street.

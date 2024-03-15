@@ -1,0 +1,3 @@
+ID1/ID2: 8/007
+Timestamp: [2.8232357501983643, 6.843782424926758]
+Sentence: a man in a car car is walking in the street.

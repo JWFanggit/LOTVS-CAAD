@@ -1,0 +1,3 @@
+ID1/ID2: 22/008
+Timestamp: [4.276770114898682, 11.100000381469727]
+Sentence: the camera pans around the car and people are seen riding down the car.

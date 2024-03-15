@@ -1,0 +1,3 @@
+ID1/ID2: 10/074
+Timestamp: [0.004747509956359863, 9.976844787597656]
+Sentence: a man in a blue shirt is standing in a room.

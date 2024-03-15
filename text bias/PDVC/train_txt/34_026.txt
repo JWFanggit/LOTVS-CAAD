@@ -1,0 +1,3 @@
+ID1/ID2: 34/026
+Timestamp: [3.8605313301086426, 10.033333778381348]
+Sentence: the man walks around the street and the man walks away.

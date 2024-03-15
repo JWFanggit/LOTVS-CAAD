@@ -1,0 +1,3 @@
+ID1/ID2: 5/008
+Timestamp: [4.082704544067383, 10.533333778381348]
+Sentence: the man then gets up and down the car.

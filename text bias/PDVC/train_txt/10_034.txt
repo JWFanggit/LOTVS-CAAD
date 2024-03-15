@@ -1,0 +1,3 @@
+ID1/ID2: 10/034
+Timestamp: [0.0, 6.882231712341309]
+Sentence: a man is seen walking down a track with a person walking around the camera.

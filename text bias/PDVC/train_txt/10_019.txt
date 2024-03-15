@@ -1,0 +1,3 @@
+ID1/ID2: 10/019
+Timestamp: [0.17069153487682343, 7.274901866912842]
+Sentence: a man is seen walking around a car with a car and a man in a red car.

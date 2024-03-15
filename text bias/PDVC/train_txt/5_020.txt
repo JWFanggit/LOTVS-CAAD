@@ -1,0 +1,3 @@
+ID1/ID2: 5/020
+Timestamp: [0.0, 6.73507022857666]
+Sentence: a man is seen riding down a car and a man is seen riding down a car.

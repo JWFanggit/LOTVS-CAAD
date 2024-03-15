@@ -1,0 +1,3 @@
+ID1/ID2: 29/018
+Timestamp: [0.12769818305969238, 7.275310039520264]
+Sentence: a car is seen driving around a car and leads into a car car.

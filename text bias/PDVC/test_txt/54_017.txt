@@ -1,0 +1,3 @@
+ID1/ID2: 54/017
+Timestamp: [2.1969590187072754, 5.633333206176758]
+Sentence: the person continues riding down the road and the camera follows him.
